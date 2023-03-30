@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on creating an open access textbook for quantitative methods in economics using *R*
+- 🌱 I’m currently learning machine learning in python
+- 💬 Ask me about informatics at Emporia State University
+- 📫 How to reach me: rselby@emporia.edu
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I have a dog named Sammi! 
